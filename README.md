@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile!;I+love+Data+Science+%26+ML;Let’s+build+something+amazing+🚀" />
 </p>
-
 ---
 
 🔍 **About Me**
