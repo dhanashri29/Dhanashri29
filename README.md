@@ -41,8 +41,15 @@
 ---
 
 ### 📊 GitHub Stats
-![Dhanashri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanashri29&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanashri29&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanashri29&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanashri29&theme=radical" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanashri29&layout=compact&theme=radical" width="40%">
+</p>
+
 
 ---
 
